@@ -300,4 +300,4 @@ contract('KlerosLiquidExtraViews', accounts => {
       value: await klerosLiquid.arbitrationCost(extraData)
     })
   }
-})
+})
