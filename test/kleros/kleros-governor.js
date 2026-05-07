@@ -1575,4 +1575,4 @@ contract('KlerosGovernor', function(accounts) {
       klerosgovernor.executeTransactionList(0, 0, 0, { from: general })
     )
   })
-})
+})
