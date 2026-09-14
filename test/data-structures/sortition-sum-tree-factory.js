@@ -93,4 +93,4 @@ contract('SortitionSumTreeFactory', () =>
         await sortitionSumTreeFactory._stakeOf(tree.key, candidate.ID)
       ).to.deep.equal(web3.toBigNumber(candidate.value))
   })
-)
+)
