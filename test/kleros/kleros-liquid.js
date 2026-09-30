@@ -944,4 +944,4 @@ contract('KlerosLiquid', accounts => {
       web3.toBigNumber(3)
     )
   })
-})
+})

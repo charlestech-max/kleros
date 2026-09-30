@@ -32,4 +32,4 @@ contract('PolicyRegistry', accounts =>
     const policy = await policyRegistry.policies(subcourtID)
     expect(policy).to.equal(lastPolicy)
   })
-)
+)
